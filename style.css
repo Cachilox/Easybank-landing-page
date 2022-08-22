@@ -509,22 +509,6 @@ button:hover::before,
   font-size: 0.8125rem;
 }
 
-.money {
-  background-image: url("../../images/image-currency.jpg");
-}
-
-.restaurant {
-  background-image: url("../../images/image-restaurant.jpg");
-}
-
-.plane {
-  background-image: url("../../images/image-plane.jpg");
-}
-
-.confetti {
-  background-image: url("/images/image-confetti.jpg");
-}
-
 .footer {
   background-color: hsl(233deg, 26%, 24%);
   color: hsl(0deg, 0%, 100%);
